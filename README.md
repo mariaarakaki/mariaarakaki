@@ -14,15 +14,14 @@
 
 <br>
 
-## `01 // IDENTITY`
+## `01 // SOBRE MIM`
 
 ```typescript
-  name: "Maria Arakaki",
-  role: "Full Stack Developer",
-  stack: ["Python", "HTML", "CSS", "C (learning)", "MySQL"],
-  studying: "Ciência da Computação @ UNICID",
-  interests: ["Fullstack Development", "Cybersecurity"],
-  tools: ["VS Code", "Git & GitHub", "Figma"],
+  nome: "Maria Arakaki",
+  linguagens: ["Python", "HTML", "CSS", "C (learning)", "MySQL"],
+  estudando: "Ciência da Computação @ UNICID",
+  interesses: ["Fullstack Development", "Cybersecurity"],
+  ferramentas: ["VS Code", "Git & GitHub", "Figma"],
   mindset: "Code. Create. Secure. Evolve."
 ```
 
@@ -78,7 +77,7 @@ STATUS      : ONLINE
 
 <br>
 
-## `04 // FEATURED_PROJECT`
+## `04 // PROJETO PRINCIPAL`
 
 <div align="center">
 
@@ -96,7 +95,7 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <br>
 
-## `05 // PROJECT_ARCHIVE`
+## `05 // PROJETOS`
 
 > Projetos de estudo e evolução profissional — adicione aqui conforme for publicando novos repositórios.
 
@@ -106,7 +105,7 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <br>
 
-## `06 // SYSTEM_METRICS`
+## `06 // MÉTRICAS DO SISTEMA`
 
 <div align="center">
 
@@ -120,7 +119,7 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <br>
 
-## `07 // CONTRIBUTION_MATRIX`
+## `07 // JOGO DA COBRINHA 🐍`
 
 <div align="center">
 
@@ -130,7 +129,7 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <br>
 
-## `08 // CONNECT`
+## `08 // REDES SOCIAIS`
 
 <div align="center">
 
