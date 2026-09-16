@@ -144,3 +144,9 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:5B2C8C,100:0F0A1F&height=100&section=footer" width="100%"/>
 </div>
+
+<div align="center">
+<sub>🦋 algumas linhas de código e um pouco de café ☕ 🦋</sub>
+</div>
+
+<br>
