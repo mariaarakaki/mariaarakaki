@@ -135,6 +135,7 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B2C8C?style=for-the-badge&logo=linkedin&logoColor=E9D8FD)](https://www.linkedin.com/in/mariaarakaki/?locale=%3E)
 [![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=E9D8FD)](https://www.instagram.com/mearakaki?stkn=MWtiZjVzdjJqNWw1cQ%3D%3D&utm_source=qr)
+[![Dev.to](https://img.shields.io/badge/dev.to-6D28D9?style=for-the-badge&logo=devdotto&logoColor=E9D8FD)](https://dev.to/mariaarakaki)
 
 </div>
 
