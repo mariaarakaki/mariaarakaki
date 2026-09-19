@@ -8,7 +8,7 @@
 
 <br>
 
-![Purple Line](https://img.shields.io/badge/-%20-5B2C8C?style=flat-square&logoColor=white)
+<div align="center">💜</div>
 
 </div>
 
