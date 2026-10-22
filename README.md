@@ -108,12 +108,19 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sage-ten-22.vercel.app/api?username=mariaarakaki&show_icons=true&hide_border=true&title_color=F87171&icon_color=F87171&text_color=FEE2E2&bg_color=170808)
-
-![Top Languages](https://github-readme-stats-sage-ten-22.vercel.app/api/top-langs/?username=mariaarakaki&layout=compact&hide_border=true&title_color=F87171&text_color=FEE2E2&bg_color=170808)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaarakaki&hide_border=true&background=170808&stroke=F87171&ring=DC2626&fire=F87171&currStreakLabel=FEE2E2)
-
+  <!-- Card de Linguagens Mais Usadas (Vermelho + Fundo Escuro) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaarakaki&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=f87171&hide_border=true" alt="Most Used Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mariaarakaki&background=0D1117&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=9CA3AF&dates=6B7280&hide_border=true" alt="GitHub Streak" />
+  </p>
+  <p>
+      <!-- Cards de Estatísticas e Streak (Tema Vermelho) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=mariaarakaki&show_icons=true&bg_color=0d1117&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&include_all_commits=true" alt="Total Contributions" />
+  </p>
+  </p>
 </div>
 
 <br>
