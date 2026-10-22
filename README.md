@@ -1,20 +1,19 @@
 <div align="center">
 
-<img width="1280" height="480" alt="Image" src="https://github.com/user-attachments/assets/88a80e23-31b8-4773-9641-4d2aed5e1f7f" />
+<img width="1280" height="480" alt="banner-inicio" src="https://github.com/user-attachments/assets/d160d45c-72a9-4822-925d-4d90946d9514" />
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+HTML+%7C+CSS+%7C+C;Estudante+na+UNICID;Explorando+Cybersegurança;Code.+Create.+Secure.+Evolve.)](https://git.io/typing-svg)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+HTML+%7C+CSS+%7C+C;Estudante+na+UNICID;Explorando+Cybersegurança;Code.+Create.+Secure.+Evolve.)](https://git.io/typing-svg)
-
-<br>
-
-<div align="center">💜</div>
+<div align="center">❤️</div>
 
 </div>
 
 <br>
 
-## `01 // SOBRE MIM`
+## `Sobre mim`
 
 ```typescript
   nome: "Maria Arakaki",
@@ -27,36 +26,36 @@
 
 <br>
 
-## `02 // TECH_STACK`
+## `Tech-stack`
 
 <div align="center">
   
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-5B2C8C?style=for-the-badge&logo=html5&logoColor=E9D8FD)
-![CSS3](https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=E9D8FD)
+![HTML5](https://img.shields.io/badge/HTML5-991B1B?style=for-the-badge&logo=html5&logoColor=FEE2E2)
+![CSS3](https://img.shields.io/badge/CSS3-DC2626?style=for-the-badge&logo=css3&logoColor=FEE2E2)
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=E9D8FD)
-![C](https://img.shields.io/badge/C-6D28D9?style=for-the-badge&logo=c&logoColor=E9D8FD)
+![Python](https://img.shields.io/badge/Python-7F1D1D?style=for-the-badge&logo=python&logoColor=FEE2E2)
+![C](https://img.shields.io/badge/C-B91C1C?style=for-the-badge&logo=c&logoColor=FEE2E2)
 
 **Banco de Dados**
 
-![MySQL](https://img.shields.io/badge/MySQL-5B2C8C?style=for-the-badge&logo=mysql&logoColor=E9D8FD)
+![MySQL](https://img.shields.io/badge/MySQL-991B1B?style=for-the-badge&logo=mysql&logoColor=FEE2E2)
 
 **Ferramentas**
 
-![VSCode](https://img.shields.io/badge/VS%20Code-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=E9D8FD)
-![Git](https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=E9D8FD)
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=E9D8FD)
-![Figma](https://img.shields.io/badge/Figma-5B2C8C?style=for-the-badge&logo=figma&logoColor=E9D8FD)
+![VSCode](https://img.shields.io/badge/VS%20Code-DC2626?style=for-the-badge&logo=visualstudiocode&logoColor=FEE2E2)
+![Git](https://img.shields.io/badge/Git-7F1D1D?style=for-the-badge&logo=git&logoColor=FEE2E2)
+![GitHub](https://img.shields.io/badge/GitHub-B91C1C?style=for-the-badge&logo=github&logoColor=FEE2E2)
+![Figma](https://img.shields.io/badge/Figma-991B1B?style=for-the-badge&logo=figma&logoColor=FEE2E2)
 
 <br>
 
 </div>
 
-## `03 // TERMINAL`
+## `Terminal`
 
 ```bash
 > booting maria.dev system...
@@ -77,7 +76,7 @@ STATUS      : ONLINE
 
 <br>
 
-## `04 // PROJETO PRINCIPAL`
+## `Projeto principal`
 
 <div align="center">
 
@@ -87,15 +86,15 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 `HTML` · `CSS` · `JavaScript`
 
-[![Repo](https://img.shields.io/badge/Ver%20Repositório-5B2C8C?style=for-the-badge&logo=github&logoColor=E9D8FD)](https://github.com/vitoria-camargo1109/projeto_GauchoChurrascaria)
+[![Repo](https://img.shields.io/badge/Ver%20Repositório-991B1B?style=for-the-badge&logo=github&logoColor=FEE2E2)](https://github.com/vitoria-camargo1109/projeto_GauchoChurrascaria)
 
-**Status:** 🟣 Em desenvolvimento
+**Status:** 🔴 Em desenvolvimento
 
 </div>
 
 <br>
 
-## `05 // PROJETOS`
+## `Projetos`
 
 > Projetos de estudo e evolução profissional — adicione aqui conforme for publicando novos repositórios.
 
@@ -105,21 +104,21 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <br>
 
-## `06 // MÉTRICAS DO SISTEMA`
+## `Métricas do sistema`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sage-ten-22.vercel.app/api?username=mariaarakaki&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=E9D8FD&bg_color=0D0817)
+![GitHub Stats](https://github-readme-stats-sage-ten-22.vercel.app/api?username=mariaarakaki&show_icons=true&hide_border=true&title_color=F87171&icon_color=F87171&text_color=FEE2E2&bg_color=170808)
 
-![Top Languages](https://github-readme-stats-sage-ten-22.vercel.app/api/top-langs/?username=mariaarakaki&layout=compact&hide_border=true&title_color=A78BFA&text_color=E9D8FD&bg_color=0D0817)
+![Top Languages](https://github-readme-stats-sage-ten-22.vercel.app/api/top-langs/?username=mariaarakaki&layout=compact&hide_border=true&title_color=F87171&text_color=FEE2E2&bg_color=170808)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaarakaki&hide_border=true&background=0D0817&stroke=A78BFA&ring=7C3AED&fire=A78BFA&currStreakLabel=E9D8FD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaarakaki&hide_border=true&background=170808&stroke=F87171&ring=DC2626&fire=F87171&currStreakLabel=FEE2E2)
 
 </div>
 
 <br>
 
-## `07 // JOGO DA COBRINHA 🐍`
+## `Jogo da cobrinha 🐍`
 
 <div align="center">
 
@@ -129,27 +128,27 @@ Site institucional de churrascaria desenvolvido em HTML, CSS e JavaScript.
 
 <br>
 
-## `08 // REDES SOCIAIS`
+## `Redes sociais`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B2C8C?style=for-the-badge&logo=linkedin&logoColor=E9D8FD)](https://www.linkedin.com/in/mariaarakaki/?locale=%3E)
-[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=E9D8FD)](https://www.instagram.com/mearakaki?stkn=MWtiZjVzdjJqNWw1cQ%3D%3D&utm_source=qr)
-[![Dev.to](https://img.shields.io/badge/dev.to-6D28D9?style=for-the-badge&logo=devdotto&logoColor=E9D8FD)](https://dev.to/mariaarakaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-991B1B?style=for-the-badge&logo=linkedin&logoColor=FEE2E2)](https://www.linkedin.com/in/mariaarakaki/?locale=%3E)
+[![Instagram](https://img.shields.io/badge/Instagram-DC2626?style=for-the-badge&logo=instagram&logoColor=FEE2E2)](https://www.instagram.com/mearakaki?stkn=MWtiZjVzdjJqNWw1cQ%3D%3D&utm_source=qr)
+[![Dev.to](https://img.shields.io/badge/dev.to-B91C1C?style=for-the-badge&logo=devdotto&logoColor=FEE2E2)](https://dev.to/mariaarakaki)
 
 </div>
 
 <br>
 
 <div align="center">
-<sub>🦋 algumas linhas de código e um pouco de café ☕ 🦋</sub>
+<sub>🌹 algumas linhas de código e um pouco de café ☕ 🌹</sub>
 </div>
 
 <br>
 
-<img width="1898" height="511" alt="Image" src="https://github.com/user-attachments/assets/34295495-592c-4a9c-b752-786d14a3f7e1" />
+<img width="1898" height="511" alt="banner-final" src="https://github.com/user-attachments/assets/ae47da4d-39e4-4e27-a30e-a68e9be883e9" />
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:5B2C8C,100:0F0A1F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:991B1B,100:1A0505&height=100&section=footer" width="100%"/>
 </div>
 
 <br>
